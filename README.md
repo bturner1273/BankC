@@ -9,5 +9,6 @@ Clients:    A/c no.:
 •    Bradley    1002
 •    Stephen    1003
 •    Ryan        1004
+
 However, you may access all of the features (both client and manager) of the program without entering any credentials, by entering “4” on the first screen where it asks you to choose between a client menu, manager menu and the credits. this unlisted option was used as a debugging screen for the program. through this screen, you may create new manager and client credentials so the program becomes usable.
 
